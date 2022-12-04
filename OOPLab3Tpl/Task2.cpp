@@ -169,7 +169,7 @@ void Vec::Output() {
 	}
 }
 
-int mainExample2() {
+int main(){
 	int a;
 	Vec B;
 	Vec P1, P2(5), P3(5, 12);
